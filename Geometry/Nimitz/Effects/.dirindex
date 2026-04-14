@@ -1,0 +1,12 @@
+#Index created on 2025-03-07 15:02:27.358737
+version:1
+path:Models/Geometry/Nimitz/Effects
+f:bowwave_carrier.eff:0a7f87f83c949ffea1744a453c9a45ffedfbaf88:331
+f:center_line_light.eff:2f0e8726f23302f6be2de1e591016b5f0c6ada9f:788
+f:datum_light.eff:2d9341f162007aae8514b189620ccdf68de20c56:930
+f:deck_edge_light.eff:e3b049a98f0281dd59820e2e3b7d8efbd796de3a:788
+f:end_line_light.eff:6ef522bbbf99c424a01cde99886165466806ef0d:787
+f:flightdeck.eff:d6cedb55e552f8e47f73780941fb78e6add18caa:706
+f:meatball_light.eff:f7d4051d24d792595fb6d3c0bcdba0043779de4d:929
+f:threshold_light.eff:b789e6f78a997267fcdea4213894b7b25ec08851:788
+f:wave_off_light.eff:6fbc06d84a99efaff816fcba6e48db5c586378da:929

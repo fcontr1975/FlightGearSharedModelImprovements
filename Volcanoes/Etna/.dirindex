@@ -1,0 +1,20 @@
+#Index created on 2025-03-07 15:02:27.450153
+version:1
+path:Models/Volcanoes/Etna
+f:ash.png:1307a422d7e1810cf0a03cf2e909aedb8c109bac:202971
+f:etna.nas:f2a4df8557f12a832ac82afe1215a02d33a3f0d2:4549
+f:etna_ne_ash_eruption.xml:41cf77961bb9668d3dcb16c4064907565ff513fd:2971
+f:etna_ne_ash_eruption_secondary.xml:2ee83d539a29e86ff236489bc6d469e5e8f498f9:2999
+f:etna_ne_lava_fountain.xml:4c0938f4df7b52a727f6f84fc235308e7755991b:3031
+f:etna_ne_lava_fountain_inner.xml:25241836887de846872b8e53b66a756a0fb0d339:3060
+f:etna_plinian_eruption.xml:cd0185ae8fa657514ea0318d22cc96a06308a438:2973
+f:etna_se_ash_eruption.xml:e1553c1816a497a17d4e8f1f3f49890a12edc0fb:2971
+f:etna_se_ash_eruption_secondary.xml:73aa9b8d408529616fc49860cc2a0a072fc1e31d:2999
+f:etna_se_lava_fountain.xml:afc9fc8c1ecbf83f01590b3f7c36745c26f4b207:3031
+f:etna_se_lava_fountain_inner.xml:2fd5cc1170530ed63af13f71ac67cd7940472c6c:3060
+f:etna_smoke_main.xml:cfee07940ff5b1b0a493d1d748f61cd30851ea7b:2243
+f:etna_smoke_minor.xml:9df5750fd26a0ce80d9bb64212022589bd1a3134:2242
+f:lava.png:a27b0885f5f9b124abfdea282a55fedc16b90750:3368
+f:northeast_crater.xml:4f62e1fc35d6289a70fcd0ad4b00d7c3b050df99:3753
+f:smoke_turbulent.png:d32e2b35e3666c1577dd2ec6c9d6773d0b35ee96:21021
+f:southeast_crater.xml:506eefb7223de1c9eaf849fcb9702b92fb383dd1:3446

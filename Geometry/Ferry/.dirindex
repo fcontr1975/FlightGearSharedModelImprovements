@@ -1,0 +1,10 @@
+#Index created on 2025-03-07 15:02:27.353857
+version:1
+path:Models/Geometry/Ferry
+f:FerryBoat1.ac:d60b20585fce54044faa2abcbbe0f7aff5e7a274:52339
+f:FerryBoat1.xml:9b5ddcf1f5235f642e73f8e5cad5eb944a9d8ab0:3153
+f:FerryBoat1_green-light.rgb:401a35ab53b99788c3f54ec84b1e4ea6804d8c7f:4608
+f:FerryBoat1_red-light.rgb:69e1fa15b3d6eae9f6ad5a8fe6ea0ead217a860b:3331
+f:FerryBoat1_white-light.rgb:e3d79196da81f220db5dca5c0937a279c5dab134:4608
+f:FerryBoat2.xml:aa0d660f9dd6685e2c58ad7c7ea20f5e4077ec6d:3151
+f:wake.rgb:72265c13f65814eaf39109934c6cef7b511ed697:172235

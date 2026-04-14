@@ -1,0 +1,14 @@
+#Index created on 2025-03-07 15:02:27.452475
+version:1
+path:Models/Volcanoes/Stromboli
+f:central_crater.xml:12785d84929d2a575c5651384e65dbae758d36ca:1746
+f:central_crater_lava_fountain.xml:e5f62b60929bf1bd1a17ac2ea5eb031821320fe1:2348
+f:central_crater_lava_fountain_inner.xml:f6d06d08812fbfc77035ae54a91ed3029179301c:2365
+f:lava.png:a27b0885f5f9b124abfdea282a55fedc16b90750:3368
+f:side_crater.xml:c23106dcc4da9682eb58078342ae312f8ae1283b:2118
+f:side_crater_lava_fountain.xml:33ffbc61464964d9b06e01ee0c2a28c7684d8345:2360
+f:side_crater_lava_fountain_inner.xml:a56e1f41e4c9057eaff8b8ffaa534beeafe6c7f8:2376
+f:smoke_turbulent.png:d32e2b35e3666c1577dd2ec6c9d6773d0b35ee96:21021
+f:stromboli.nas:7dbef0f5776f17e1b210b273703bd22bac07d52e:3554
+f:stromboli_smoke_main.xml:cfee07940ff5b1b0a493d1d748f61cd30851ea7b:2243
+f:stromboli_smoke_minor.xml:409c1d6bf89f568765ec5ff76049e56be86878f3:2248

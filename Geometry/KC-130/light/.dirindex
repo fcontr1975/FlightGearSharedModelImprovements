@@ -1,0 +1,14 @@
+#Index created on 2025-03-07 15:02:27.356384
+version:1
+path:Models/Geometry/KC-130/light
+f:GreenLight.ac:74d04142acc324e515b3951aeae4ff8201ddf9a5:912
+f:GreenLight.xml:564fc48c357a20df1e20a0cfdee4c2452f8cfc15:1014
+f:RedLight.ac:82a9ad24faed9296fcb0fb421992df1a92d72c6b:918
+f:RedLight.xml:1bbe59ac7b8af2e6a929b8cbe13154c69f3375a8:1012
+f:StrobeWhite.xml:fd640fe0406bf334d02a3c55a4c043e87fd8f9b9:1194
+f:WhiteLight.ac:51bf138401492dc3e5b98c235ee41ea352581831:906
+f:WhiteLight.xml:87385e4a39d8fb1ae03b06ef3e61be8f54df6273:1014
+f:beacon.xml:e01db92d8aa06782d0997df44a441d4907e9a62c:1194
+f:flash.ac:31fca63cedab0fb869db4b4a267298c18946d45f:508
+f:flash.xml:842dd18f29b4ae9a86161560eb5d5f3d589c3942:1045
+f:lights.png:bd7aaa6e33e83fcbcc714416bad6ddac944679e7:24340

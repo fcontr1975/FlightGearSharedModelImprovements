@@ -1,0 +1,58 @@
+AC3Db
+MATERIAL "office_modern_small" rgb 1.000 1.000 1.000  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 10 trans 0.000
+OBJECT world
+name "Blender_exporter_v5.1__small-modern-office--ZfYu.ac"
+kids 1
+OBJECT poly
+name "small-modern-office.ac"
+data 5
+.mesh
+crease 40.0
+texture "small-modern-office.png"
+numvert 9
+-6.06068 7.77055 -3.97476
+5.97111 7.77056 -3.97477
+-6.06068 7.77056 4.02523
+5.97111 7.77056 4.02523
+-6.06068 0.08248 -3.97478
+-6.06068 7.77056 -3.97478
+5.97111 0.08248 -3.97478
+-6.06068 0.08248 4.02522
+5.97111 0.08248 4.02522
+numsurf 5
+SURF 0X0
+mat 0
+refs 4
+0 0 0.78125
+2 0.421875 0.78125
+3 0.421875 1
+1 0 1
+SURF 0X0
+mat 0
+refs 4
+4 -0.01 0
+5 -0.01 1
+1 1 1
+6 1 0
+SURF 0X0
+mat 0
+refs 4
+3 -0 1
+8 0 -0
+6 1 0
+1 1 1
+SURF 0X0
+mat 0
+refs 4
+8 0.99 0
+3 0.99 1
+2 -0.01 1
+7 -0.01 0
+SURF 0X0
+mat 0
+refs 4
+7 1 -0
+2 1 1
+5 0 1
+4 -0 0
+kids 0
