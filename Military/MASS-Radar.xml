@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>MASS-Radar.ac</path>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>MASS</object-name>
+  <object-name>MASS.001</object-name>
+  <object-name>reflector</object-name>
+  <object-name>carrier</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>-90.0</factor>
+  <center>
+   <x-m>0</x-m>
+   <y-m>0</y-m>
+   <z-m>15.5</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>0</y>
+   <z>1</z>
+  </axis>
+ </animation>
+ 
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>3</x-m>
+	     <y-m>3</y-m>
+	     <z-m>24.37764</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>-3</x-m>
+	     <y-m>3</y-m>
+	     <z-m>24.37764</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>-3</x-m>
+	     <y-m>-3</y-m>
+	     <z-m>24.37764</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>3</x-m>
+	     <y-m>-3</y-m>
+	     <z-m>24.37764</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+</PropertyList>

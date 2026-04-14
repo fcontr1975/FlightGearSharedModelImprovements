@@ -1,15 +1,7 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
   <path>germanvillagehouse3.ac</path>
 
-  <animation>
-    <type>range</type>
-    <min-m>0</min-m>
-    <max-property>sim/rendering/static-lod/bare</max-property>
-  </animation>
-	
   <animation> 
     <type>textranslate</type> 
     <object-name>germanvillagehouse3</object-name> 

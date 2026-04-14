@@ -5,12 +5,6 @@
  <path>windturbine_flash.ac</path>
 
  <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>20000</max-m>
- </animation>
-
- <animation>
   <type>rotate</type>
   <object-name>Generator</object-name>
   <object-name>Shaft</object-name>
@@ -66,7 +60,7 @@
   </center>
  </animation>
 
-<!--LIGHT-->
+
 
 <animation>
   <type>alpha-test</type>
@@ -79,7 +73,7 @@
     <object-name>white-light-plate</object-name>    
   </effect>
 
-<!--Day = white-->
+
  <animation>
   <type>select</type>
  <object-name>white-light-plate</object-name>
@@ -116,9 +110,9 @@
     <object-name>white-light-plate</object-name>    
     <interpolation>
       <entry><ind>    0  </ind><dep>  0.2  </dep></entry>      
-      <entry><ind>  5000 </ind><dep>  4.0  </dep></entry>
-      <entry><ind> 10000 </ind><dep>  8.0  </dep></entry>
-      <entry><ind> 15000 </ind><dep> 12.0  </dep></entry>
+      <entry><ind>  5000 </ind><dep>  1.0  </dep></entry>
+      <entry><ind> 10000 </ind><dep>  1.5  </dep></entry>
+      <entry><ind> 15000 </ind><dep>  2.0  </dep></entry>
     </interpolation>
     <center>
       <x-m> 0 </x-m>
@@ -127,7 +121,7 @@
     </center>
   </animation>
 
-<!--Night = red-->
+
 <animation>
   <type>select</type>
  <object-name>red-light-plate</object-name>
@@ -166,9 +160,9 @@
       <entry><ind>    0 </ind><dep> 0.15 </dep></entry>      
       <entry><ind> 1000 </ind><dep> 0.4 </dep></entry>
       <entry><ind> 2000 </ind><dep> 0.6 </dep></entry>
-      <entry><ind> 5000 </ind><dep> 3.0 </dep></entry>
-      <entry><ind>10000 </ind><dep> 6.0 </dep></entry>
-      <entry><ind>15000 </ind><dep> 9.0 </dep></entry>
+      <entry><ind> 5000 </ind><dep> 1.0 </dep></entry>
+      <entry><ind>10000 </ind><dep> 1.5 </dep></entry>
+      <entry><ind>15000 </ind><dep> 2.0 </dep></entry>
     </interpolation>
     <center>
       <x-m> 0 </x-m>

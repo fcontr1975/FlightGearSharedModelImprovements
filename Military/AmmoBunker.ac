@@ -246,7 +246,7 @@ OBJECT poly
 name "Plane.001"
 data 9
 Plane.001
-texture "airport.png"
+texture "AmmoBunker.png"
 texrep 1 1
 crease 30.000000
 numvert 10

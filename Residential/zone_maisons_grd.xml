@@ -1,18 +1,8 @@
-<?xml version="1.0"?>
-
 <PropertyList>
-
-  <path>zone_maisons_grd-ba.ac</path>
-
+  <path>zone_maisons_grd.ac</path>
   <animation>
-    <type>range</type>
-    <min-m>0</min-m>
-    <max-property>sim/rendering/static-lod/bare</max-property>
-  </animation>
-	
-  <animation> 
-    <type>textranslate</type> 
-    <object-name>jour</object-name> 
+    <type>textranslate</type>
+    <object-name>jour</object-name>
     <property>/sim/time/sun-angle-rad</property>
     <step> 1.57 </step>
     <factor>0.318471338</factor>
@@ -21,11 +11,11 @@
      <y-m> 0 </y-m>
      <z-m> 0 </z-m>
     </center>
-    <axis> 
-      <x> -1 </x> 
-      <y>  0 </y> 
-      <z>  0 </z> 
-    </axis> 
+    <axis>
+      <x> -1 </x>
+      <y>  0 </y>
+      <z>  0 </z>
+    </axis>
   </animation>
 
   <animation>
@@ -59,5 +49,4 @@
       <blue>  0.0 </blue>
     </emission>
   </animation>
-
 </PropertyList>

@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
  <path>Mersey_Lifeboat.ac</path>
 
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>16000</max-m>
- </animation>
- 
  <animation>
   <type>alpha-test</type>
   <alpha-factor>0.01</alpha-factor>

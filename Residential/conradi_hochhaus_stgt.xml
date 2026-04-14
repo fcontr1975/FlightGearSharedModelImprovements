@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 	<path>conradi_hochhaus_stgt.ac</path>
 
 	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
-
-<animation>
     <type>material</type>
     <object-name>fenster</object-name>
     <condition>

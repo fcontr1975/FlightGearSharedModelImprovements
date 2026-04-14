@@ -1,14 +1,6 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 	<path>jetway-747-ba.ac</path>
 
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>8000</max-m>
-	</animation>
-	
 	<animation>
 		<type>material</type>
 		<object-name>Mesh</object-name>
@@ -18,13 +10,12 @@
 				<value>1.57</value>
 			</greater-than>
 		</condition>
-		<global type="bool">true</global>
 		<emission>
 			<red>1</red>
 			<green>1</green>
 			<blue>1</blue>
 		</emission>
-		<texture>jetwaylit.png</texture>
+		<texture>jetway-747-ba_lit.png</texture>
 	</animation>
 	
 	<animation>
@@ -36,13 +27,12 @@
 				<value>1.57</value>
 			</less-than-equals>
 		</condition>
-		<global type="bool">true</global>
 		<emission>
 			<red>0</red>
 			<green>0</green>
 			<blue>0</blue>
 		</emission>
-		<texture>jetway.png</texture>
+		<texture>jetway-747-ba.png</texture>
 	</animation>
 
 </PropertyList>

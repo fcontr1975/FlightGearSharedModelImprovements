@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
-<!-- 10m Cup anemometer lit with obstruction light -->
+
 
 <path>anemometer_10m.ac</path>
 
-<!-- Obstruction lamp effect -->
+
 	<model>
 		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
 		<offsets>
@@ -18,7 +16,7 @@
 		</offsets>
 	</model>
 
-<!-- Obstruction lamp glass illumination -->
+
 	<animation>
 		<type>material</type> 
 		<object-name>ws_osbt_lamp</object-name>
@@ -41,7 +39,7 @@
 		</emission>
 	</animation>
 
-<!-- Cups animation -->
+
 	<animation>
 		<type>spin</type>
 		<object-name>cups</object-name>
@@ -59,11 +57,5 @@
 			</center>
 	</animation>
 
-<!-- LOD -->
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>10000</max-m>
-	</animation>
 
-</PropertyList>
+	</PropertyList>

@@ -654,7 +654,7 @@ refs 4
 kids 0
 OBJECT poly
 name "poly.008"
-texture "chessboard.png"
+texture "ndb1.png"
 texrep 1 1
 numvert 4
 -4.9907 2.51061 -1.496946
@@ -677,7 +677,7 @@ refs 3
 kids 0
 OBJECT poly
 name "poly.007"
-texture "chessboard.png"
+texture "ndb1.png"
 texrep 1 1
 numvert 4
 -9.9907 0.010609 -1.496946
@@ -700,7 +700,7 @@ refs 3
 kids 0
 OBJECT poly
 name "poly.006"
-texture "chessboard.png"
+texture "ndb1.png"
 texrep 1 1
 numvert 4
 -9.99079 0.010609 1.503054
@@ -723,7 +723,7 @@ refs 3
 kids 0
 OBJECT poly
 name "box.001"
-texture "chessboard.png"
+texture "ndb1.png"
 texrep 1 1
 numvert 8
 -9.99076 0.01061 -1.49694
@@ -762,7 +762,7 @@ refs 3
 kids 0
 OBJECT poly
 name "box"
-texture "chessboard.png"
+texture "ndb1.png"
 texrep 1 1
 numvert 4
 -9.99077 0.01061 -1.49695

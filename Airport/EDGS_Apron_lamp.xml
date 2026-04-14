@@ -5,7 +5,7 @@
   <path>EDGS_Apron_lamp.ac</path>
 <animation>
 		<type>material</type>
-		<object-name>lightcone</object-name>
+		<object-name>groundlight</object-name>
 		<transparency>
 			<alpha-prop>environment/visibility-m</alpha-prop>
 			<factor>1</factor>
@@ -16,8 +16,8 @@
 
   <animation>
     <type>select</type>
-    <object-name>lightcone</object-name>
     <object-name>groundlight</object-name>
+    <object-name>redlight</object-name>	
     <enable-hot type="bool">false</enable-hot>
     <condition>
         <greater-than>

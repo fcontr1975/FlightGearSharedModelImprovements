@@ -1,15 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
 <path>Bud_paliw.ac</path>
-<animation>
-<type>range</type>
-<min-m>0</min-m>
-<max-m>25000</max-m>
-</animation>
-
-
 <animation>
 <type>textranslate</type>
 <object-name>Plane</object-name>
@@ -45,5 +36,3 @@
   </animation>
 
 </PropertyList>
-
-

@@ -1,21 +1,10 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
   <path>generic-trailer-GPU.ac</path>
 
-  <!-- Model and artworks courtesy of XPGoodWay Team
-(http://www.xpgoodwayteam.org/site_xpushback/) -->
+  
 
   <animation>
-    <type>range</type>
-    <min-m>0</min-m>
-    <max-property>sim/rendering/static-lod/bare</max-property>
-  </animation>
-	
-  <!-- switch to night/day textures -->
- 
- <animation>
    <type>textranslate</type> 
    <object-name>BacklightLOff</object-name>
    <object-name>BacklightROff</object-name>

@@ -6,7 +6,7 @@ OBJECT poly
 name "Cube"
 data 4
 Cube
-texture "Hedge.png"
+texture "Hedge-50m.png"
 texrep 1 1
 crease 30.000000
 numvert 8

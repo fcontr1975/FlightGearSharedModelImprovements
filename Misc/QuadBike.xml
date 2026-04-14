@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
  <path>QuadBike.ac</path>
 
  <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>16000</max-m>
- </animation>
-
-<animation>
   <type>rotate</type>
     <property>/sim/time/elapsed-sec</property>
   <factor>8.0</factor>
@@ -28,7 +20,7 @@
 
 <animation>
   <type>spin</type>
-  <object-name>leftfront</object-name> <!-- Left Front wheel-->
+  <object-name>leftfront</object-name> 
     <property>/sim/time/elapsed-sec</property>
   <factor>2.0</factor>
   <center>
@@ -46,7 +38,7 @@
 
 <animation>
   <type>spin</type>
-  <object-name>leftrear</object-name> <!-- LeftRear wheel -->
+  <object-name>leftrear</object-name> 
     <property>/sim/time/elapsed-sec</property>
   <factor>2.0</factor>
   <center>
@@ -63,7 +55,7 @@
 
 <animation>
   <type>spin</type>
-  <object-name>rightfront</object-name> <!-- Right Front wheel-->
+  <object-name>rightfront</object-name> 
     <property>/sim/time/elapsed-sec</property>
   <factor>2.0</factor>
   <center>
@@ -81,7 +73,7 @@
 
 <animation>
   <type>spin</type>
-  <object-name>rightrear</object-name> <!-- Right Rear wheel -->
+  <object-name>rightrear</object-name> 
     <property>/sim/time/elapsed-sec</property>
   <factor>2.0</factor>
   <center>

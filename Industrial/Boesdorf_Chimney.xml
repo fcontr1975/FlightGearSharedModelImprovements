@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 	<path>Boesdorf_Chimney.ac</path>
 
 	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-property>/sim/rendering/static-lod/bare</max-property>
-	</animation>
-
-<animation>
     <type>material</type>
     <object-name>schornstein</object-name>
     <condition>
@@ -275,15 +267,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -294,15 +286,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -313,15 +305,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -332,15 +324,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -351,15 +343,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -370,15 +362,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -389,15 +381,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -408,15 +400,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -427,15 +419,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -446,15 +438,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -465,15 +457,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -484,15 +476,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichterXparams/light-near"/>
+				<dep alias="../../../../rotlichterXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichterXparams/light-med"/>
+				<dep alias="../../../../rotlichterXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichterXparams/light-far"/>
+				<dep alias="../../../../rotlichterXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>

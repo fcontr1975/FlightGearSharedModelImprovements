@@ -1,13 +1,6 @@
-<?xml version="1.0"?>
 <PropertyList>
 
-    <animation>
-	  <type>range</type>
-	  <min-m>0</min-m>
-	  <max-m>2000</max-m>
-    </animation>
-
-<particlesystem>
+    <particlesystem>
   <name>flame</name>
   
   <texture>oilrig09_flame2000.png</texture>

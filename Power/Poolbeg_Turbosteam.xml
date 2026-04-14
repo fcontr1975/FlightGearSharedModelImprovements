@@ -1,17 +1,5 @@
-<?xml version="1.0"?>
-<!-- project: D:\0_FlightGear\Edifici\8 - POWERPLANTS\8.6 Poolbeg PP\PoolbegPP.blend -->
-<!-- cursor: 200.150115966797 -69.178817749023 448.793914794922 -->
-
 <PropertyList>
 	<path>Poolbeg_Turbosteam.ac</path>
-
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
-<!-- Stack 1 Top Red Lights -->
-	
 
 	<animation>
 		<name>ST1topXGroup</name>
@@ -235,7 +223,7 @@
   
 </animation>
 	
-<!-- Stack 1 Mid Red Lights -->
+
 
 
 	<animation>
@@ -460,7 +448,7 @@
 </interpolation>
   
 </animation>
-<!-- Stack 1 Bottom Red Lights -->	
+	
 	<ST1bottXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
@@ -689,8 +677,8 @@
   
 </animation>
 	
-	<!-- STACK 2 -->
-	<!-- Top Lights -->
+	
+	
 	<ST2topXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
@@ -920,7 +908,7 @@
   
 </animation>
 	
-	<!-- Stack 2 Mid Lights -->
+	
 	
 	<ST2midXparams>
 		<light-near>0.4</light-near>
@@ -1150,7 +1138,7 @@
 </interpolation>
   
 </animation>
-<!-- Stack 2 bottom lights -->
+
 <ST2botXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
@@ -1379,7 +1367,7 @@
   
 </animation>
 	
-	<!-- Lighthouse -->
+	
 	<LHBeamXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
@@ -1609,7 +1597,7 @@
   
 </animation>
 
- <!-- SMOKE -->
+ 
  <particlesystem>
   <name>Stack1-2</name>
   
@@ -1689,7 +1677,7 @@
 </particlesystem>
 
 
-<!-- STACK Unit 3 SMOKE -->
+
 
  <particlesystem>
   <name>Stack3</name>
@@ -1770,7 +1758,7 @@
 </particlesystem>
 
 
-<!-- Textures translation -->
+
  <path>Poolbeg_Turbosteam.ac</path>
 
 <animation> 

@@ -1,15 +1,6 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
 	<path>lner-teak-first-class-coach.ac</path>
-
-	<animation>
-		<object>coach-brake</object>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>10000</max-m>
-	</animation>
 
 	<offsets>
 		<x-m>0</x-m>

@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
-	<!-- Apron Lamp	22m			-->
-	<!-- 28.12.2012 - by Andre Burkert	--> 
+	
+	 
 
 	<path>LIGHTCONE22M_rembrandt.ac</path>
 
-<!--  Rembrandt Light  -->
+
 <animation>
 <type>light</type>
 <light-type>spot</light-type>
@@ -77,7 +75,7 @@
       </and>
 </condition>
 </animation>
-<!--  night light area  -->
+
 <animation>
 <type>material</type>
 	<object-name>lightarea</object-name>
@@ -107,17 +105,11 @@
       </not>
 </condition>
 </animation>
-<!--  enable-hot  -->
+
 <animation>
  	<object-name>lightvolume</object-name>
  	<object-name>lightarea</object-name>
 <enable-hot type="bool">false</enable-hot>
-</animation>
-
-<animation>
-    <type>range</type>
-    <min-m>0</min-m>
-    <max-property>sim/rendering/static-lod/bare</max-property>
 </animation>
 
 </PropertyList>

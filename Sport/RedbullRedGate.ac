@@ -1575,7 +1575,7 @@ OBJECT poly
 name "Band6.001_1"
 data 12
 Cylinder.010
-texture "Redbull.png"
+texture "RedbullRedGate.png"
 texrep 1 1
 crease 30
 numvert 52
@@ -2484,7 +2484,7 @@ OBJECT poly
 name "Band6_1"
 data 12
 Cylinder.005
-texture "Redbull.png"
+texture "RedbullRedGate.png"
 texrep 1 1
 crease 30
 numvert 52

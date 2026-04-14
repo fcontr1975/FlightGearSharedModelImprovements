@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 	<path>Fernmeldeturm_Leipzig.ac</path>
 
 	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-property>/sim/rendering/static-lod/bare</max-property>
-	</animation>
-
-<animation>
    <type>range</type>
    <object-name>antennen</object-name>
    <object-name>gelaender</object-name>
@@ -232,15 +224,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -251,15 +243,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -270,15 +262,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -289,15 +281,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -308,15 +300,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -327,15 +319,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -346,15 +338,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -365,15 +357,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -384,15 +376,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rotlichtXparams/light-near"/>
+				<dep alias="../../../../rotlichtXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rotlichtXparams/light-med"/>
+				<dep alias="../../../../rotlichtXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rotlichtXparams/light-far"/>
+				<dep alias="../../../../rotlichtXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>

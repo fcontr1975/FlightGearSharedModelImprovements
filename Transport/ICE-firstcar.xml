@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <PropertyList>
 
 	<path>ICE3firstcar.ac</path>
@@ -19,12 +18,6 @@
 		<enable-hot type="bool">false</enable-hot>
 	</animation>
 
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>20000</max-m>
-	</animation>
-	
 	<animation> 
     <type>textranslate</type> 
     <object-name>Plane</object-name> 

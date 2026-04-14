@@ -1,13 +1,5 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 	<path>Fernsehturm-Stade.ac</path>
-
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
 
 	<CircleXparams>
 		<light-near>0.4</light-near>
@@ -205,15 +197,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -224,15 +216,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -243,15 +235,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -262,15 +254,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -281,15 +273,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -300,15 +292,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -319,15 +311,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -338,15 +330,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -357,15 +349,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../CircleXparams/light-near"/>
+				<dep alias="../../../../CircleXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../CircleXparams/light-med"/>
+				<dep alias="../../../../CircleXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../CircleXparams/light-far"/>
+				<dep alias="../../../../CircleXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>

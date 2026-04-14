@@ -21,9 +21,9 @@ MATERIAL "Material.028" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 1 1 1 shi 32 trans 0
 MATERIAL "Body" rgb 0.878001 0.858631 0.858631 amb 0.878001 0.858631 0.858631 emis 0 0 0 spec 1 1 1 shi 32 trans 0
 MATERIAL "Material.013" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 1 1 1 shi 32 trans 0
 MATERIAL "Body.001" rgb 0.878001 0.858631 0.858631 amb 0.878001 0.858631 0.858631 emis 0 0 0 spec 1 1 1 shi 32 trans 0
-MATERIAL "TaRuWei" rgb 0.598973 0.595466 0.595466 amb 0.598973 0.595466 0.595466 emis 0 0 0 spec 1 1 1 shi 32 trans 0
+MATERIAL "TaRuWei" rgb 0.598973 0.595466 0.595466 amb 0.598973 0.595466 0.595466 emis 0.1 0.1 0.1 spec 1 1 1 shi 32 trans 0
 MATERIAL "Material.029" rgb 0.097706 0.09421 0.09421 amb 0.097706 0.09421 0.09421 emis 0 0 0 spec 1 1 1 shi 32 trans 0
-MATERIAL "TaRuWei.001" rgb 0.965571 0.943915 0.943915 amb 0.965571 0.943915 0.943915 emis 0 0 0 spec 1 1 1 shi 32 trans 0
+MATERIAL "TaRuWei.001" rgb 0.965571 0.943915 0.943915 amb 0.965571 0.943915 0.943915 emis 0.1 0.1 0.1 spec 1 1 1 shi 32 trans 0
 MATERIAL "Material.014" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 1 1 1 shi 32 trans 0
 OBJECT world
 kids 26

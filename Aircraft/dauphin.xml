@@ -1,18 +1,12 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <PropertyList>
 
   <path>dauphin.ac</path>
 
 	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-property>sim/rendering/static-lod/bare</max-property>
-	</animation>
-
-	<animation>
 		<type>material</type>
-		<object-name>dauphin</object-name>
+		<object-name>dauphin.001</object-name>
 		<emission>
 			<red>   0.4 </red>
 			<green> 0.4 </green>

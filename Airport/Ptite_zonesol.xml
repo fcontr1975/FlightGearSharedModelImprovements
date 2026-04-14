@@ -1,32 +1,9 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <PropertyList>
 
-  <path>Ptite_zonesol-ba.ac</path>
+  <path>Ptite_zonesol.ac</path>
 
-  <animation>
-    <type>range</type>
-    <min-m>0</min-m>
-    <max-property>sim/rendering/static-lod/bare</max-property>
-  </animation>
-	
-  <animation> 
-    <type>textranslate</type> 
-    <object-name>jour</object-name> 
-    <property>/sim/time/sun-angle-rad</property>
-    <step> 1.57 </step>
-    <factor>0.318471338</factor>
-    <center>
-     <x-m> 0 </x-m>
-     <y-m> 0 </y-m>
-     <z-m> 0 </z-m>
-    </center>
-    <axis> 
-      <x> -1 </x> 
-      <y>  0 </y> 
-      <z>  0 </z> 
-    </axis> 
-  </animation>
 
   <animation>
     <type>material</type>
@@ -59,5 +36,11 @@
       <blue>  0.0 </blue>
     </emission>
   </animation>
+
+<animation>	
+	<object-name>jour</object-name>
+	<enable-hot type="bool">false</enable-hot>
+</animation>
+
 
 </PropertyList>

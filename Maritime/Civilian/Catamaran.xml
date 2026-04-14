@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>     
 <path>Catamaran.ac</path>
-<animation>
-        <type>range</type>
-        <min-m>0</min-m>
-	<max-m>16000</max-m>
-    </animation>   
 <animation>
   <type>rotate</type>
     <property>/sim/time/elapsed-sec</property>

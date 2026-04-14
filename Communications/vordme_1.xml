@@ -1,35 +1,17 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <PropertyList>
 
- <path>vordme_1.ac</path>
-
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>5000</max-m>
- </animation>
-
- <animation>
-  <type>range</type>
-  <object-name>vor</object-name>
-  <min-m>0</min-m>
-  <max-m>500</max-m>
- </animation>
-
- <animation>
-  <type>range</type>
-  <object-name>dme</object-name>
-  <min-m>0</min-m>
-  <max-m>500</max-m>
- </animation>
-
- <animation>
-  <type>range</type>
-  <object-name>dme_lowres</object-name>
-  <object-name>base_lowres</object-name>
-  <min-m>500</min-m>
-  <max-m>5000</max-m>
- </animation>
-
+  <path>vordme_1.ac</path>
+  <model>
+    <name>obst_top_red01</name>
+    <path>../Effects/pos_lamp_red_light_2st.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m>  7.850 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+      <heading-deg>0.0 </heading-deg>
+    </offsets>
+  </model>
 </PropertyList>

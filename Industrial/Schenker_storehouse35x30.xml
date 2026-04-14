@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
 	<path>Schenker_storehouse35x30.ac</path>
 <animation>
@@ -15,11 +14,6 @@
   <green>0.3</green>	
   <blue>0.3</blue>
  </emission>
-</animation>
-<animation>
-<type>range</type>
-<min-m>0</min-m>
-<max-property>sim/rendering/static-lod/bare</max-property>
 </animation>
 <model><path>Models/Effects/pos_lamp_red_light_2st.xml</path>
 <offsets>

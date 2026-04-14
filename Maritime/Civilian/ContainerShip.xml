@@ -1,5 +1,3 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
 	<path>ContainerShip.ac</path>
@@ -62,11 +60,7 @@
 				<dep>400</dep>
 			</entry>
 		</interpolation>
-		<!--<center>
-			<x-m>63.662</x-m>
-			<y-m>13.489</y-m>
-			<z-m>23.197</z-m>
-		</center>-->
+		
 	</animation>
 
 
@@ -106,11 +100,7 @@
 				<dep>400</dep>
 			</entry>
 		</interpolation>
-		<!--<center>
-			<x-m>63.662</x-m>
-			<y-m>-13.489</y-m>
-			<z-m>23.197</z-m>
-		</center>-->
+		
 	</animation>
 
 
@@ -150,11 +140,7 @@
 				<dep>400</dep>
 			</entry>
 		</interpolation>
-		<!--<center>
-			<x-m>-113.408</x-m>
-			<y-m>0.0</y-m>
-			<z-m>21.736</z-m>
-		</center>-->
+		
 	</animation>
 
 
@@ -194,11 +180,7 @@
 				<dep>400</dep>
 			</entry>
 		</interpolation>
-		<!--<center>
-			<x-m>62.2411</x-m>
-			<y-m>0.0</y-m>
-			<z-m>35.0394</z-m>
-		</center>-->
+		
 	</animation>
 
 
@@ -238,11 +220,7 @@
 				<dep>400</dep>
 			</entry>
 		</interpolation>
-		<!--<center>
-			<x-m>119.904</x-m>
-			<y-m>0</y-m>
-			<z-m>5.96979</z-m>
-		</center>-->
+		
 	</animation>
 
 	
@@ -266,7 +244,7 @@
 		</center>
 	</animation>
 	
-<animation>
+	<animation>
 		<type>dist-scale</type>
 		<object-name>Light2P</object-name>
 		<interpolation>
@@ -365,15 +343,4 @@
 			<z-m>9.84396</z-m>
 		</center>
 	</animation>
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>60000</max-m>
-	</animation>
-
-	<!--<animation>
-		<object-name>ContainerShip</object-name>
-		<enable-hot>true</enable-hot>
-	</animation>-->
-
-</PropertyList>
+	</PropertyList>

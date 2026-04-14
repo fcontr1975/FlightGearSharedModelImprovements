@@ -1,5 +1,3 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
  <path>larix_decidua_autumn.ac</path>
@@ -9,10 +7,4 @@
   <spherical>false</spherical>
  </animation>
 
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>15000</max-m>
- </animation>
-
-</PropertyList>
+ </PropertyList>

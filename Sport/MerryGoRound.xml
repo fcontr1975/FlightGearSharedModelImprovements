@@ -1,15 +1,7 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
  <path>MerryGoRound.ac</path>
  
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>25000</max-m>
- </animation>
-
  <animation>
   <type>spin</type>
   <object-name>horses</object-name>
@@ -35,4 +27,3 @@
  </animation>
                                            
 </PropertyList>
-         

@@ -1,5 +1,3 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 	<path>egkk_light_mast.ac</path>
 
@@ -71,13 +69,7 @@
  </emission>
 </animation>
 	
-<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
-
-	<hazardXparams>
+<hazardXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
 		<light-far>10</light-far>
@@ -124,17 +116,22 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../hazardXparams/light-near"/>
+				<dep alias="../../../../hazardXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../hazardXparams/light-med"/>
+				<dep alias="../../../../hazardXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../hazardXparams/light-far"/>
+				<dep alias="../../../../hazardXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
+    
+  <animation>
+	  <object-name>light</object-name>
+	  <enable-hot type="bool">false</enable-hot>
+  </animation>
 
 </PropertyList>

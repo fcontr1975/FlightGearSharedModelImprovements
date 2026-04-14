@@ -1,14 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
  <path>SeaGull_Origin_2.ac</path>
-
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>56000</max-m>
- </animation>
 
  <animation>
   <enable-hot type="bool">false</enable-hot>
@@ -20,12 +12,6 @@
  </animation>
 
 <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>56000</max-m>
- </animation>
-
- <animation>
   <type>rotate</type>
   <property>/sim/time/elapsed-sec</property>
   <factor>12</factor>

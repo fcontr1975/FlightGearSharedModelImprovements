@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 	<path>industrial_b_060x060.ac</path>
 
 	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
-
-<animation>
     <type>material</type>
     <object-name>060x060fenster</object-name>
     <condition>

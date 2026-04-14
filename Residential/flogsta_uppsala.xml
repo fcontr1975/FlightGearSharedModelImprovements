@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
  <path>flogsta_uppsala.ac</path>
  <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>25000</max-m>
- </animation>
-
-<animation>
    <type>textranslate</type> 
    <object-name>Flogsta_Uppsala</object-name> 
    <property>/sim/time/sun-angle-rad</property>

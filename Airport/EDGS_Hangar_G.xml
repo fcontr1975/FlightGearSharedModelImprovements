@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
  <path>EDGS_Hangar_G.ac</path>
 
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>5000</max-m>
- </animation>
- 
  <animation>
   <type>range</type>
   <object-name>DoorSupport</object-name>

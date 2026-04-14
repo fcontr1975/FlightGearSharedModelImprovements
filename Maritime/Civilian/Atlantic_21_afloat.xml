@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
  <path>Atlantic_21_afloat.ac</path>
 
  <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>16000</max-m>
- </animation>
-
-<animation>
  <type>timed</type>
  <object-name>Flash1</object-name>
  <object-name>Blank1</object-name>

@@ -1,15 +1,6 @@
-<?xml version="1.0"?>
-
-
 <PropertyList>
 
 	<path>container_20ft_ISO.ac</path>
-
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>10000</max-m>
-	</animation>
 
 	<offsets>
 		<x-m>0</x-m>
@@ -21,7 +12,7 @@
 		<enable-hot type="bool">false</enable-hot>
 	</animation>
 
-	<!--container_20ft_ISO.ac is a corrugated in white use this section to paint it the desired colour-->
+	
 
 	<animation>
 		<type>material</type>
@@ -38,7 +29,7 @@
 		</diffuse>
 	</animation>
 
-	<!--container_20ft_decal-mt.png is a transparent texture - use your own to decorate the container sides-->
+	
 
 	<animation>
 		<type>material</type>

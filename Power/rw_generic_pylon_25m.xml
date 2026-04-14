@@ -1,13 +1,6 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
  <path>rw_generic_pylon.ac</path>
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>15000</max-m>
- </animation>
  <animation>
   <type>scale</type>
   <x-offset>0.5</x-offset>

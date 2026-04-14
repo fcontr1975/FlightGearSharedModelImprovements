@@ -241,7 +241,7 @@ OBJECT poly
 name "poly.007"
 data 8
 Mesh.029
-texture "chessboard.png"
+texture "localizer.png"
 texrep 1 1
 crease 30
 numvert 4
@@ -267,7 +267,7 @@ OBJECT poly
 name "poly.006"
 data 8
 Mesh.028
-texture "chessboard.png"
+texture "localizer.png"
 texrep 1 1
 crease 30
 numvert 4
@@ -525,7 +525,7 @@ OBJECT poly
 name "box.001"
 data 8
 Mesh.027
-texture "chessboard.png"
+texture "localizer.png"
 texrep 1 1
 crease 30
 numvert 8
@@ -1147,7 +1147,7 @@ OBJECT poly
 name "poly.008"
 data 8
 Mesh.030
-texture "chessboard.png"
+texture "localizer.png"
 texrep 1 1
 crease 30
 numvert 4
@@ -1535,7 +1535,7 @@ OBJECT poly
 name "box"
 data 8
 Mesh.026
-texture "chessboard.png"
+texture "localizer.png"
 texrep 1 1
 crease 30
 numvert 4

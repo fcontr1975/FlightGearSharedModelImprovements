@@ -1,14 +1,6 @@
-<?xml version="1.0"?>
-
-
 <PropertyList>
 <path>Tanker.ac</path>
 
-<animation>
-<type>range</type>
-<min-m>0</min-m>
-<max-m>25000</max-m>
-</animation>
 <animation> 
     <type>textranslate</type> 
     <object-name>F-light</object-name> 
@@ -75,13 +67,7 @@
   </animation>
   
   <path>Tanker.ac</path>
-<animation>
-<type>range</type>
-<min-m>0</min-m>
-<max-m>40000</max-m>
-</animation>
-	<!-- Luce di Prua Bianca -->
-        <bec1Xparams>
+<bec1Xparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
 		<light-far>10</light-far>
@@ -169,15 +155,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../bec1Xparams/light-near"/>
+				<dep alias="../../../../bec1Xparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../bec1Xparams/light-med"/>
+				<dep alias="../../../../bec1Xparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../bec1Xparams/light-far"/>
+				<dep alias="../../../../bec1Xparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -188,15 +174,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../bec1Xparams/light-near"/>
+				<dep alias="../../../../bec1Xparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../bec1Xparams/light-med"/>
+				<dep alias="../../../../bec1Xparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../bec1Xparams/light-far"/>
+				<dep alias="../../../../bec1Xparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -207,19 +193,19 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../bec1Xparams/light-near"/>
+				<dep alias="../../../../bec1Xparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../bec1Xparams/light-med"/>
+				<dep alias="../../../../bec1Xparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../bec1Xparams/light-far"/>
+				<dep alias="../../../../bec1Xparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
-<!-- Red Lights -->
+
 <rbeacXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
@@ -308,15 +294,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rbeacXparams/light-near"/>
+				<dep alias="../../../../rbeacXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rbeacXparams/light-med"/>
+				<dep alias="../../../../rbeacXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rbeacXparams/light-far"/>
+				<dep alias="../../../../rbeacXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -327,15 +313,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rbeacXparams/light-near"/>
+				<dep alias="../../../../rbeacXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rbeacXparams/light-med"/>
+				<dep alias="../../../../rbeacXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rbeacXparams/light-far"/>
+				<dep alias="../../../../rbeacXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -346,19 +332,19 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../rbeacXparams/light-near"/>
+				<dep alias="../../../../rbeacXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../rbeacXparams/light-med"/>
+				<dep alias="../../../../rbeacXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../rbeacXparams/light-far"/>
+				<dep alias="../../../../rbeacXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
-	<!-- Main mast Lights -->
+	
 	<mastlitXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
@@ -447,15 +433,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../mastlitXparams/light-near"/>
+				<dep alias="../../../../mastlitXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../mastlitXparams/light-med"/>
+				<dep alias="../../../../mastlitXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../mastlitXparams/light-far"/>
+				<dep alias="../../../../mastlitXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -466,15 +452,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../mastlitXparams/light-near"/>
+				<dep alias="../../../../mastlitXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../mastlitXparams/light-med"/>
+				<dep alias="../../../../mastlitXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../mastlitXparams/light-far"/>
+				<dep alias="../../../../mastlitXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -485,19 +471,19 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../mastlitXparams/light-near"/>
+				<dep alias="../../../../mastlitXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../mastlitXparams/light-med"/>
+				<dep alias="../../../../mastlitXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../mastlitXparams/light-far"/>
+				<dep alias="../../../../mastlitXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
-<!-- Green Light -->
+
 <gbeacXparams>
 		<light-near>0.4</light-near>
 		<light-med>0.8</light-med>
@@ -586,15 +572,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../gbeacXparams/light-near"/>
+				<dep alias="../../../../gbeacXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../gbeacXparams/light-med"/>
+				<dep alias="../../../../gbeacXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../gbeacXparams/light-far"/>
+				<dep alias="../../../../gbeacXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -605,15 +591,15 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../gbeacXparams/light-near"/>
+				<dep alias="../../../../gbeacXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../gbeacXparams/light-med"/>
+				<dep alias="../../../../gbeacXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../gbeacXparams/light-far"/>
+				<dep alias="../../../../gbeacXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
@@ -624,29 +610,23 @@
 		<interpolation>
 			<entry>
 				<ind>0</ind>
-				<dep alias="../../../../gbeacXparams/light-near"/>
+				<dep alias="../../../../gbeacXparams/light-near" />
 			</entry>
 			<entry>
 				<ind>500</ind>
-				<dep alias="../../../../gbeacXparams/light-med"/>
+				<dep alias="../../../../gbeacXparams/light-med" />
 			</entry>
 			<entry>
 				<ind>16000</ind>
-				<dep alias="../../../../gbeacXparams/light-far"/>
+				<dep alias="../../../../gbeacXparams/light-far" />
 			</entry>
 		</interpolation>
 	</animation>
 	
-	<!-- SMOKE Section -->
+	
 	<path>Tanker.ac</path>
 
-<animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>25000</max-m>
- </animation>
- 
- <particlesystem>
+<particlesystem>
   <name>stack</name>
   
   <texture>smoke.png</texture>
@@ -723,7 +703,7 @@
   </program>
            
 </particlesystem>
-<!-- SMOKE END -->
+
  
 
 

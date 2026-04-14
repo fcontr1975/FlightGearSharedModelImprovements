@@ -1,13 +1,5 @@
-<?xml version="1.0"?>
-
 <PropertyList>
-	<path>Modulevillecarre-ba.ac</path>
-	
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>8000</max-m>
-	</animation>
+	<path>modulevillecarre-ba.ac</path>
 	
 	<animation>
 		<type>material</type>

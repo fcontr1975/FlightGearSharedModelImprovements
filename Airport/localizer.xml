@@ -1,14 +1,22 @@
-<?xml version="1.0"?>
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
+	<path>localizer.ac</path>
 
- <path>localizer.ac</path>
- 
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>25000</max-m>
- </animation>
-         
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path>
+		<offsets>
+			<x-m>0</x-m>
+			<y-m>5</y-m>
+			<z-m>1</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path>
+		<offsets>
+			<x-m>0</x-m>
+			<y-m>-5</y-m>
+			<z-m>1</z-m>
+		</offsets>
+	</model>
+  
 </PropertyList>
-         

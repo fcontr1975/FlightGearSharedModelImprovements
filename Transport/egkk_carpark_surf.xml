@@ -1,14 +1,7 @@
-<?xml version="1.0"?>
 <PropertyList>
  <path>egkk_carpark_surf.ac</path>
 
       <animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>25000</max-m>
-	</animation>
-
-<animation>
    <type>textranslate</type> 
    <object-name>ground</object-name> 
    <property>/sim/time/sun-angle-rad</property>

@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
  <path>GEN_H-4.ac</path>
 
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>16000</max-m>
- </animation>
- 
  <animation>
   <type>alpha-test</type>
   <alpha-factor>0.01</alpha-factor>
@@ -38,7 +30,7 @@
   <factor>890.0</factor>
   <center>
    <x-m>0</x-m>
-   <y-m></y-m>
+   <y-m />
    <z-m>0.0</z-m>
   </center>
   <axis>

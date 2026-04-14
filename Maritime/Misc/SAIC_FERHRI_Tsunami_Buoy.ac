@@ -810,7 +810,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "SAIC_FERHRI.png"
+texture "SAIC.png"
 crease 97.5000000000001
 numvert 20
 0.429111 1.174292 -0.244638

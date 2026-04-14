@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
-	<!-- 09.04.2013-Andre Burkert	--> 
+	 
 	<path>apronworker4.ac</path>
 <animation>
 	<type>alpha-test</type>
@@ -9,10 +8,9 @@
 <animation>
 	<type>billboard</type>
 	<object-name>apronworker4</object-name>
-	<spherical type="bool">true</spherical>
+	<spherical type="bool">false</spherical>
 </animation>
 <animation>
-	<object-name>apronworker4</object-name>
 	<enable-hot type="bool">false</enable-hot>
 </animation>
 <animation>
@@ -40,10 +38,5 @@
 			<green>0.6</green>	
 			<blue>0.6</blue>
 		</emission>
-</animation>
-<animation>
-	<type>range</type>
-	<min-m>0</min-m>
-	<max-m>300</max-m>
 </animation>
 </PropertyList>

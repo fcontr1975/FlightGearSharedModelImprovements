@@ -1,15 +1,7 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
   <path>KSFO_light.ac</path>
 
-  <animation>
-    <type>range</type>
-    <min-m>0</min-m>
-    <max-property>sim/rendering/static-lod/bare</max-property>
-  </animation>
-	
   <animation> 
     <type>textranslate</type> 
     <object-name>light</object-name> 
@@ -59,5 +51,15 @@
       <blue>  0.0 </blue>
     </emission>
   </animation>
+
+
+
+<animation>
+	<object-name>light</object-name>
+	<enable-hot type="bool">false</enable-hot>
+</animation>
+
+
+
 
 </PropertyList>

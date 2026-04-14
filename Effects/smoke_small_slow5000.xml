@@ -1,14 +1,6 @@
-<?xml version="1.0"?>
 <PropertyList>
 
-    <animation>
-	  <type>range</type>
-	  <min-m>0</min-m>
-	  <max-m>5000</max-m>
-    </animation>
-
-
-<particlesystem>
+    <particlesystem>
   <name>smoke</name>
   
   <texture>smoke_small_slow5000.png</texture>

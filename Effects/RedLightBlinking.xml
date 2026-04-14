@@ -4,11 +4,10 @@
 
  <path>RedLightBlinking.ac</path>
 
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>16000</max-m>
- </animation>
+    <!-- Note: reordered/changed animations per this thread
+        'Timed animation stops working in certain configuration'
+        https://sourceforge.net/p/flightgear/mailman/message/37090714/
+    -->
 
  <animation>
   <type>alpha-test</type>
@@ -18,18 +17,10 @@
  <animation>
   <type>noshadow</type>
   <object-name>RedLight.11</object-name>
- </animation>
- 
- <animation>
-  <type>noshadow</type>
   <object-name>RedLight.12</object-name>
- </animation>
-
- <animation>
-  <type>noshadow</type>
   <object-name>RedLight.20</object-name>
  </animation>
-
+ 
  <animation>
   <name>StrobesOn</name>
   <object-name>RedLight.11</object-name>
@@ -78,26 +69,7 @@
     </condition>
    </animation>
 
- <animation>
-  <type>timed</type>
-  <object-name>StrobesOn</object-name>
-  <object-name>StrobesOff</object-name>
-  <use-personality type="bool">true</use-personality>
-  <branch-duration-sec>
-   <random>
-    <min>1.49</min>
-    <max>1.5</max>
-   </random>
-  </branch-duration-sec>
-  <branch-duration-sec>
-   <random>
-    <min>1.49</min>
-    <max>1.5</max>
-   </random>
-  </branch-duration-sec>
- </animation>
 
-<!--  -->
 <animation>
 <type>billboard</type>
 <object-name>RedLight.11</object-name>
@@ -151,4 +123,23 @@
 </interpolation>
 </animation>
  
+ <animation>
+  <type>timed</type>
+  <object-name>StrobesOn</object-name>
+  <object-name>StrobesOff</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>1.49</min>
+    <max>1.5</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>1.49</min>
+    <max>1.5</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
 </PropertyList>

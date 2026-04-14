@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
 <path>EUROPOLES_LOCBRIDGE_50M.ac</path>
 
-<animation>
-    <type>range</type>
-    <min-m>0</min-m>
-    <max-property>sim/rendering/static-lod/bare</max-property>
-</animation>
 <effect>
 <inherits-from>Effects/model-transparent</inherits-from>
 <condition><property>sim/rendering/rembrandt/enabled</property></condition>
@@ -43,4 +37,3 @@
 </offsets>
 </model>
 </PropertyList>
-         

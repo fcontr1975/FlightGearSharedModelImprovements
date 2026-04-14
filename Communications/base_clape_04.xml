@@ -1,14 +1,6 @@
-<?xml version="1.0"?>
-
 <PropertyList>
 
  <path>base_clape_04.ac</path>
-
- <animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-m>20000</max-m>
- </animation>
 
  <animation>
   <type>select</type>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
        
 <path>Carrier_A01.ac</path>
@@ -23,10 +22,10 @@
  
 		<placer>
 			<type>sector</type>
-			<radius-min-m>0</radius-min-m> <!--= only for sector, inner radius at which particles appear-->
-			<radius-max-m>0.20</radius-max-m> <!--= only for sector, outer radius at which particles appear-->
-			<phi-min-deg>0</phi-min-deg> <!--= only for sector, starting angle of the slide at which particles appear-->
-			<phi-max-deg>359.5</phi-max-deg> <!--= only for sector, ending angle of the slide at which particles appear-->
+			<radius-min-m>0</radius-min-m> 
+			<radius-max-m>0.20</radius-max-m> 
+			<phi-min-deg>0</phi-min-deg> 
+			<phi-max-deg>359.5</phi-max-deg> 
 		</placer>
 
 		<shooter>
@@ -36,10 +35,7 @@
 			<phi-max-deg>2.0</phi-max-deg>
 			<speed-mps>
 				<value>750</value>
-				<!--<property>velocities/true-air-speed-kt</property>
-				<property>/velocities/groundspeed-kt</property>
-				<factor>0.8333</factor>
-				<offset>10</offset>-->
+				
 				<spread>250</spread>
 			</speed-mps>
 			<rotation-speed>
@@ -55,9 +51,7 @@
 		<counter>
 			<particles-per-sec>
 				<value>5</value>
-				<!--<property>velocities/true-air-speed-kt</property>
-				<factor>0.8333</factor>
-				<offset>50</offset>-->
+				
 				<spread>30</spread>
 			</particles-per-sec>
 		</counter>
@@ -256,11 +250,6 @@
 	
 
 <animation>
-        <type>range</type>
-        <min-m>0</min-m>
-	<max-m>16000</max-m>
-    </animation>
-    <animation>
 		 <object-name>Light_green</object-name>	
         <enable-hot type="bool">false</enable-hot>
     </animation>
@@ -295,12 +284,6 @@
         </branch-duration-sec>
         </animation>
 	<animation>
-        <type>range</type>
-        <min-m>0</min-m>
-	<max-m>16000</max-m>
-    </animation>
-	
-    <animation>
 		 <object-name>Light_red</object-name>	
         <enable-hot type="bool">false</enable-hot>
     </animation>
@@ -336,11 +319,6 @@
         </animation>
 		
 <animation>
-        <type>range</type>
-        <min-m>0</min-m>
-	<max-m>16000</max-m>
-    </animation>
-    <animation>
 		 <object-name>Light_white</object-name>	
         <enable-hot type="bool">false</enable-hot>
     </animation>
@@ -377,11 +355,6 @@
         </animation>
 		
 <animation>
-        <type>range</type>
-        <min-m>0</min-m>
-	<max-m>16000</max-m>
-    </animation>
-    <animation>
 		 <object-name>Light_yellow</object-name>	
         <enable-hot type="bool">false</enable-hot>
     </animation>

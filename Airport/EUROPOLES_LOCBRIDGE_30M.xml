@@ -1,14 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <PropertyList>
 
 <path>EUROPOLES_LOCBRIDGE_30M.ac</path>
-
-<animation>
-<type>range</type>
-<min-m>0</min-m>
-<max-m>25000</max-m>
-</animation>
 
 <animation>
  <type>material</type>
@@ -27,4 +19,3 @@
 </animation>
 
 </PropertyList>
-         
