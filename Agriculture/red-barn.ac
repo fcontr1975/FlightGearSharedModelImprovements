@@ -4,7 +4,7 @@ OBJECT world
 kids 1
 OBJECT poly
 name "Plane"
-texture "red-barn.rgb"
+texture "red-barn.png"
 crease 45.000000
 numvert 12
 8 0 5
