@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PropertyList>
+  <model>
+    <path>Antena1.ac</path>
+    <x-scale>10</x-scale>
+    <y-scale>10</y-scale>
+    <z-scale>10</z-scale>
+  </model>
+</PropertyList>
